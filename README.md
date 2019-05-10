@@ -19,7 +19,12 @@ pendown();
 
 Made with prototype design pattern.
 
+Next update will include: the OpenGL implementation
+
 3. stamm.cc (German for the spanish term "tronco")
 
 Made with factory method design pattern.
+
+Next update will include: the OpenGL implementation
+
 
